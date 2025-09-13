@@ -42,3 +42,7 @@ MIT License
 ## Repository
 
 https://github.com/bearmini/vscode-systemd-unit-file
+
+## Security
+
+Re. the Security Warning about _"The update for systemd-unit-file extension introduces executable code, which is not present in the currently installed version. Please review the extension and update it manually."_ which you'll see in Visual Studio Code's Extensions when upgrading previous versions to v1.0.8, please see issues [#17](https://github.com/bearmini/vscode-systemd-unit-file/issues/17) and [#15](https://github.com/bearmini/vscode-systemd-unit-file/issues/15).
